@@ -134,5 +134,5 @@ permalink: /terms/
 
 如你对本条款有任何疑问、投诉或建议，请通过以下方式联系我们：
 
-- **联系邮箱**：support@run4better-inc.com
+- **联系邮箱**：legal@run4better-inc.com
 - **联系页面**：https://policy.run4better.ai/contact
