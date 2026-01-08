@@ -12,7 +12,7 @@ permalink: /contact/
 
 ## 1. 支持与反馈
 
-- **邮箱**：support@run4better-inc.com
+- **邮箱**：support@run4better.ai
 - **主题建议**：  
   - `[Privacy]` 隐私相关  
   - `[Terms]` 条款相关  
