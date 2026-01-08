@@ -95,4 +95,4 @@ If you have any questions or requests regarding this Privacy Policy or your data
 
 - **Email:** rain@run4better-inc.com
 - **Company / Project:** run4better 
-- **Website:** https://run4better-inc.com/
+- **Website:** https://run4better.ai
