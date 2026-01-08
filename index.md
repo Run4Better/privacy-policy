@@ -93,6 +93,6 @@ Continued use of the Application indicates acceptance of the updated policy.
 
 If you have any questions or requests regarding this Privacy Policy or your data, please contact us at:
 
-- **Email:** rain@run4better-inc.com
-- **Company / Project:** run4better 
+- **Email:** support@run4better-inc.com
+- **Company / Project:** Run4Better 
 - **Website:** https://run4better.ai
