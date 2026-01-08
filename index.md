@@ -1,6 +1,6 @@
 # Privacy Policy
 
-_Last updated: January 2026_
+_Last updated: January 2026
 
 This Privacy Policy explains how we collect, use, and protect user data in our fitness and training analytics application (the “Application”).
 
@@ -93,6 +93,6 @@ Continued use of the Application indicates acceptance of the updated policy.
 
 If you have any questions or requests regarding this Privacy Policy or your data, please contact us at:
 
-- **Email:** contact@yourdomain.com  
-- **Company / Project:** _Your Project Name_  
-- **Website:** https://yourdomain.com
+- **Email:** rain@run4better-inc.com
+- **Company / Project:** run4better 
+- **Website:** https://run4better-inc.com/
